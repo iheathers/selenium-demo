@@ -1,0 +1,8 @@
+09-10-2020 20:46:27 INFO     [app.py:12] Loading books list...
+09-10-2020 20:46:28 INFO     [books_page.py:28] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+09-10-2020 20:46:59 INFO     [menu.py:16] Finding best books by rating...
+09-10-2020 20:47:07 INFO     [menu.py:23] Finding cheapest books
